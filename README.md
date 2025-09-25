@@ -27,4 +27,4 @@ Um banner interativo e responsivo com animação de garrafa de refrigerante e pe
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/MagOss27/Animation3D_Rotate.git
